@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<service name="conmWs"
+		class="kd.cus.conmWebservice.action.impl.WebserviceInterfaceImpl"></service>
+	<service name="erpWs"
+		class="kd.cus.erpWebservice.action.impl.WebserviceInterfaceImpl"></service>
+	<service name="mainWs"
+		class="kd.cus.webservice.action.impl.WebserviceInterfaceImpl"></service>
+</root>
